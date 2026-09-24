@@ -69,6 +69,12 @@ Existing Parish Form
 
 Local data model
 
+<div align="center">
+
+<img src="mermaid-diagram.png" alt="ParSec Dashboard" width="95%">
+
+</div>
+
 ```text
 ParishSystem/
 │
